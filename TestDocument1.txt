@@ -1,9 +1,10 @@
 This is a test document.
-Testing from GitHub Desktop.
+Testing from SourceTree.
 
 Add some more text for a second commit.
 
 Testing use of SourceTree.
-Test 2.
 
 Testing SourceTree again. Adding more text to master.
+
+Branch foo. More on branch foo.
