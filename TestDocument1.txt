@@ -7,4 +7,4 @@ Testing use of SourceTree.
 
 Testing SourceTree again.
 
-Branch foo.
+Branch foo. More on branch foo.
