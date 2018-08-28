@@ -6,4 +6,4 @@ Add some more text for a second commit.
 Testing use of SourceTree.
 Test 2.
 
-Testing SourceTree again.
+Testing SourceTree again. Adding more text to master.
