@@ -1,5 +1,5 @@
 This is a test document.
-Testing from GitHub Desktop.
+Testing from SourceTree.
 
 Add some more text for a second commit.
 
