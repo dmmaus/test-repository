@@ -1,3 +1,4 @@
 Adding a second document in master branch.
 
 Add text in branch fizz.
+Some more text, in branch master.
