@@ -1,5 +1,7 @@
 This is a test document.
-Testing from SourceTree.
+There is another clone of this repository, using GitHub Desktop, in ~/GitHub/test-repository
+
+Testing from SourceTree. Clone is in ~/Documents/Coding/git_test
 
 Add some more text for a second commit.
 
