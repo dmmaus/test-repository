@@ -10,3 +10,5 @@ Testing use of SourceTree.
 Testing SourceTree again. Adding more text to master.
 
 Branch foo. More on branch foo.
+
+Adding stuff on branch bar.
